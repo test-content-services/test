@@ -1,5 +1,8 @@
 {
-  
-  "liveVersionNum": 10,
-  "packageIndex": "1"
+    "nature": [
+        101,
+        102
+    ],
+    "liveVersionNum": 10,
+    "packageIndex": "1"
 }
