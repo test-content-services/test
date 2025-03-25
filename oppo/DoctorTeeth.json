@@ -1,8 +1,10 @@
 {
-    "url":"https://xy.irenfeng.com/h5/DoctorTeeth/",
-    "nature": [
-        54699
-    ],
-    "liveVersionNum": 10,
-    "package_index": "1"
+    "package_mode": 1,
+    "version_code": 250285003,
+    "country_list": [
+        "IN",
+        "ID",
+        "LK",
+        "PK"
+    ]
 }
