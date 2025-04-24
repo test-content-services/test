@@ -1,5 +1,7 @@
 {
   "liveVersion":16,
   "loginTime":10,
-  "login":0
+  "login":0,
+  "ad_url": "https://kuyu0421.minigame.vip/",
+  "ad_limit": 10
 }
