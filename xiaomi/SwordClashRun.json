@@ -1,5 +1,19 @@
 {
-  "AutoInserTime":40,
-  "ad_url": "https://e08lh.captivine.com",
-  "ad_limit": 2
+    "AutoInserTime": 40,
+    "ad_url": "https://e08lh.captivine.com",
+    "ad_limit": 2,
+    "ad_url_arrays": [
+        {
+            "url": "https://e08lh.captivine.com",
+            "max": 0
+        },
+        {
+            "url": "https://drink.flipgamezone.com/drink-flipgamezone/index.html",
+            "max": 0
+        },
+        {
+            "url": "https://vividshift8.xyz/TPGHIm6KjfAaw5Km",
+            "max": 0
+        }
+    ]
 }
