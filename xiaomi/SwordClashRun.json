@@ -5,15 +5,15 @@
     "ad_url_arrays": [
         {
             "url": "https://e08lh.captivine.com",
-            "max": 10
+            "max": 0
         },
         {
             "url": "https://drink.flipgamezone.com/drink-flipgamezone/index.html",
-            "max": 5
+            "max": 0
         },
         {
             "url": "https://vividshift8.xyz/TPGHIm6KjfAaw5Km",
-            "max": 1
+            "max": 0
         }
     ]
 }
